@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/AddRain1/AddRain1/blob/output/github-contribution-grid-snake.svg)
-
+[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=AddRain1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AddRain1/AddRain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
