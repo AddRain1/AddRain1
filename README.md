@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AddRain1/AddRain1/blob/main/wizardbanner.jpg" alt="Banner of a developer sitting in front of a desk" width="40%" height="40%" />
+  <img src="https://github.com/AddRain1/AddRain1/blob/main/codewizard.jpg" alt="Banner of a developer sitting in front of a desk" width="80%" height="60%" />
 </div>
 
 <h1 align="center">
