@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AddRain1/AddRain1/blob/main/codedog" alt="Banner of a coding dog" width="100%" height="20%" />
+  <img src="https://github.com/AddRain1/AddRain1/blob/main/codedog" alt="Banner of a coding dog" width="100%" height="500px" />
 </div>
 
 <h1 align="center">
