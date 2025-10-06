@@ -10,3 +10,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddRain1&layout=compact&theme=tokyonight" />
   </a>
 </div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Adrian+Vo!;" />
+</h1>
+
+### A full-stack software engineer passionate about building scalable, functional, and user-centric software.
