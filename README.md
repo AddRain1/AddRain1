@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&theme=tokyonight&section=header&text=Hi%20There!&fontSize=90" />
-</p>
 
-<h1 align="center" style="margin-top: -10px;">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=I'm+Adrian+Vo;" />
 </h1>
 
