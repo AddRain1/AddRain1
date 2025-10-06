@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&theme=tokyonight&section=header&text=Hi%20There!&fontSize=90" />
 </p>
 
-<h1 align="center">
+<h1 align="center" style="margin-top: -10px;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=I'm+Adrian+Vo;" />
 </h1>
 
@@ -12,7 +12,6 @@
 
 <p align="center">
   - 🌱 I’m currently contributing to <a href="https://github.com/external-secrets/external-secrets">External Secrets Operator</a> from Kubernetes. <br>
-  - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
 </p>
 
 <br>
