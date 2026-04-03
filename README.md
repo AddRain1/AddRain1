@@ -10,10 +10,6 @@
   A full-stack software engineer passionate about building scalable, functional, and user-centric software.
 </p>
 
-<p align="center">
-  - 🌱 I’m currently contributing to <a href="https://github.com/external-secrets/external-secrets">External Secrets Operator</a> from Kubernetes. <br>
-</p>
-
 <br>
 
 <div align="center">
